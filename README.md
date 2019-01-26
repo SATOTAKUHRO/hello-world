@@ -1,2 +1,6 @@
 # hello-world
-First Git
+
+Hi everyone!
+
+This is my first git.
+This step is small, but big for our research.
